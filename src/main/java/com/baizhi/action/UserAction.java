@@ -5,6 +5,7 @@ import com.baizhi.service.UserService;
 import com.opensymphony.xwork2.ActionSupport;
 
 /**
+  这是用户的action
  * @author miion
  * @create 2019-07-10 21:21
  */
